@@ -17,3 +17,5 @@
 ## Data Structure
 
 #### Electronic database structure as seen below consist of six tables: customer, data dictionary, Exchange rate, Product, Sales and Stores with a total row count of 63,000 records
+
+![image](https://github.com/user-attachments/assets/2cdeec20-6932-46ff-bc73-9010046d9f8b)
