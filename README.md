@@ -19,3 +19,27 @@
 #### Electronic database structure as seen below consist of six tables: customer, data dictionary, Exchange rate, Product, Sales and Stores with a total row count of 63,000 records
 
 ![image](https://github.com/user-attachments/assets/2cdeec20-6932-46ff-bc73-9010046d9f8b)
+
+#### The dataset span from 2016 to 2021 containing several months of transational data from an electronics retailer and is structured across multiple dimensions. Key tables include :
+
+#### • Customer
+#### Age group, City, Continent, Country, Customers Age, Customers Key, Gender, Name,State, State Code and Zip Code.
+
+#### • Data dictionary
+#### Description, Field and Table.
+
+#### • Product
+#### Brand, Category, Category Key, Color, Product name, Product Key, Subcategory, Subcategory Key, Unit Cost and Unit Price
+
+#### • Sales
+#### Curency Code, Customer Key, Delivery Date, Line Item, Order Date, Order Number, Product Key, Quantity and Store Key
+
+#### • Store
+#### Country, Square Metre, State and Store Key
+
+#### • Exchange Rate
+#### Currency, Date and Exchange.
+
+## Executive Summary
+
+## Overview of Findings
