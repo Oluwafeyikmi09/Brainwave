@@ -12,7 +12,7 @@
 #### • Product Level Performance: An analysis of various product, category and subcategory. Understanding their impact on sales.
 #### • Regional Comparisons: An evaluation of sales and orders by region
 
-#### An interactive PowrBi dashboard can be downloaded [here](https://microsoft.com)
+#### An interactive PowrBi dashboard can be downloaded [here](https://microsoft.com) 
 
 
 ## Data Structure
