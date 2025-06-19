@@ -44,11 +44,27 @@
 
 ## Overview of Findings
 
+#### From 2016 to 2019, the company experienced consistent and impressive growth. Revenue increased from $6.9 million in 2016 to $18.3 million by 2019 more than doubling in just three years. 
+#### This upward trend signals strong business performance, potentially driven by increased demand and improved operations.
+
+#### However the company sales took a turn  begining in 2020. Revenue dropped significantly to $9.3 million , marking a nearly 50% decline from the previous year. This sharp decline aligns with the onset of the COVID-19 pandemic, which disrupted industries globally. The impact is even more evident in 2021, where revenue is recorded at $1.0 million but it is important to note that this figure represent only two month, not a full fiscal year. 
+
+#### Below is the overview pages from the PowerBi dashboard and more examples are included through out the report. The entire interactive dashboard can be downloaded [here](https://microsoft)
+
+![image](https://github.com/user-attachments/assets/55fb7195-02af-43cb-bfd6-18a9f6fe0fea)
+
 ![image](https://github.com/user-attachments/assets/43afba20-24fe-4bf0-a8e7-16cf453f400f)
 
 
 ![image](https://github.com/user-attachments/assets/82998ad6-d0a4-4454-bba4-919b48c39613)
 
+## Sales Trends
+
+#### • The company's sales peaked in December 2019 with 2,967 orders totalling $2,477,296 monthly revenue.
+
+#### • Beginning in January 2016 to April 2020, revenue declined on a year-over-year basis with a rise in February followed by fall in March and April then revenue takes a good turn from May. 
+
+####
 
 
 ![image](https://github.com/user-attachments/assets/f8abbe3b-d9cf-4fda-a5fe-6d494d95480a)
@@ -59,7 +75,13 @@
 
 ![image](https://github.com/user-attachments/assets/8747d292-9bc3-444b-a69e-65cf4cca5da4)
 
+### Product Performance
 
+#### • 60% of total revenue is generated from just three product categories: Home Appliances, Computers and TV & Video and from four key brands: Adventure works, Contoso, Wide world importers and Fabrikam. Highlighting their significant contribution to overall sales performance. This concentration reveals a strong customer preference and market dominance by these brands and categories making them pivotal to the business's financial success. 
+
+#### • The United State dominates sales by a wide margin, firmly holding the top position thoughout the analysis period generating  55% revenue from  the country. The United Kingdom ranks second but trails significantly behind, while other countries frequently shift position.
+
+#### • For six years consecutively, color Black, White and Gray have genrated the higest revenue as regards color. Customers consistently gravitate toward what is reliable, flexible and safe, especially when choosing long term items.  
 ![image](https://github.com/user-attachments/assets/6f779955-33a1-4624-aa56-1d7845417853)
 
 
