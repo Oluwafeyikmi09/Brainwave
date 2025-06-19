@@ -14,6 +14,7 @@
 
 #### An interactive PowrBi dashboard can be downloaded [here](https://microsoft.com)
 
+
 ## Data Structure
 
 #### Electronic database structure as seen below consist of six tables: customer, data dictionary, Exchange rate, Product, Sales and Stores with a total row count of 63,000 records
