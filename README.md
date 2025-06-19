@@ -4,7 +4,7 @@
 
 #### In today's increasing digital retail landscape, electronics stands as one of the most competitive and dynamic sectors. Understanding consumer purchasing patterns, seasonal trends and revenue drivers is critical to staying ahead in this industry.
 
-#### This project dives into electronic sales data aimed at uncovering revenue trends, patterns, product performance across multiple channels. The goal is to simulate a real word business problem where data driven insights can drive strategic decisions.
+#### This project dives into electronic sales data aimed at uncovering revenue trends, patterns, product performance across multiple channels. The goal is to simulate a real world business problem where data driven insights can drive strategic decisions.
 
 #### Insight and recommendations are provided on the following key areas:
 
@@ -81,8 +81,25 @@
 
 #### • The United State dominates sales by a wide margin, firmly holding the top position thoughout the analysis period generating  55% revenue from  the country. The United Kingdom ranks second but trails significantly behind, while other countries frequently shift position.
 
-#### • For six years consecutively, color Black, White and Gray have genrated the higest revenue as regards color. Customers consistently gravitate toward what is reliable, flexible and safe, especially when choosing long term items.  
+#### • For six years consecutively, color Black, White and Gray have genrated the higest revenue as regards color. Customers consistently gravitate toward what is reliable, flexible and safe, especially when choosing long term items. 
+
+![image](https://github.com/user-attachments/assets/a13397d5-cd57-4ced-8032-51004ed642bf)
+
 ![image](https://github.com/user-attachments/assets/6f779955-33a1-4624-aa56-1d7845417853)
+
+## Recommendations:
+
+#### Based on the uncovered insights, the following recommendations have been provided 
+
+#### • With 75% of orders and 60% of revenue coming from just three product categories, diversifying the product category portfolio is crucial. Expanding the Games & Toys, Audio, Cell Phones and Music,Movies & Audio Books with new product lines would provide upsell opportunities. 
+#### • North America continues to be the top-performing continent in terms of revenue. This suggests that the current sales and marketing strategies are highly effectiv in this region It is recommended to maintain these efforts. Australia and Europe are generating very low revenue. A detailed market assessment should be conducted to identify contributing factors 
+
+#### • Currently, 55% of total revenue is generated from a single country, while the remaining 45% is shared across all other countries. While this indicates strong market dominance and strategy execution in that particulatcountry, it also exposes the business to high regional dependecy and potential risk if markt condition changes. To build a more balanced and resilient revenue portfolio, it is recommended to:
+#### Diversify Sales Efforts by investing in high potential but underperforming countries
+#### Monitor the dominant market closely for economic or policy changes that could impact revenue
+#### Invest in localized marketing and sales efforts in underperforming countries 
+
+#### • States showing a consistent year-over-year decline in sales performance should be closely examined. Developing and testing new, state-specific marketing strategies can help reverse the downward trend and boost overall sales performance  
 
 
 
