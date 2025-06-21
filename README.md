@@ -10,10 +10,10 @@
 
 #### • Sales Trend Analysis: Evaluation of historical sales patterns by region, country, states and continent focusing on Revenue.
 #### • Product Level Performance: An analysis of various product, category and subcategory. Understanding their impact on sales.
-#### • Regional Comparisons: An evaluation of sales and orders by region(https://app.powerbi.com/links/cX-r6kVVhQ?ctid=95600456-d5bd-4ba5-86c6-b1725a06e3ec&pbi_source=linkShare)
+#### • Regional Comparisons: An evaluation of sales and orders by region
 
 
-#### PowerBi dashboard can be downloaded [here]
+#### PowerBi dashboard can be downloaded [here](Electronic Analysis.pdfElectronic Analysis.pdf)
 
 
 ## Data Structure
