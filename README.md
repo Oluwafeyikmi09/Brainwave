@@ -13,7 +13,7 @@
 #### • Regional Comparisons: An evaluation of sales and orders by region(https://app.powerbi.com/links/cX-r6kVVhQ?ctid=95600456-d5bd-4ba5-86c6-b1725a06e3ec&pbi_source=linkShare)
 
 
-#### An interactive PowrBi dashboard can be downloaded [here](https://app.powerbi.com)
+#### PowerBi dashboard can be downloaded [here]
 
 
 ## Data Structure
