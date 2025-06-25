@@ -47,8 +47,6 @@
 
 #### However the company sales took a turn  begining in 2020. Revenue dropped significantly to $9.3 million , marking a nearly 50% decline from the previous year. This sharp decline aligns with the onset of the COVID-19 pandemic, which disrupted industries globally. The impact is even more evident in 2021, where revenue is recorded at $1.0 million but it is important to note that this figure represent only two month, not a full fiscal year. 
 
-#### Below is the overview pages from the PowerBi dashboard and more examples are included through out the report. The entire interactive dashboard can be downloaded [here](https://microsoft)
-
 ![image](https://github.com/user-attachments/assets/55fb7195-02af-43cb-bfd6-18a9f6fe0fea)
 
 ![image](https://github.com/user-attachments/assets/43afba20-24fe-4bf0-a8e7-16cf453f400f)
